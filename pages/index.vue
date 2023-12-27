@@ -2,7 +2,7 @@
     <div class="container">
         <h1>Music Translator</h1>
 
-        <div>Source Code: <a href="https://github.com/luantber" target="_blank"> Github repo</a> </div>
+        <div>Source Code: <a href="https://github.com/luantber/music-translator" target="_blank"> Github repo</a> </div>
 
         <p>Este traductor incrementa en el número deseado de semitonos las notas insertadas. </p>
         <p>Las notas se insertan en formato (do,re, do# , reb ) . Acepta mayusculas o minusculas, con la posibilidad de añadir un asterisco (*) o varios (**) para subir una octava o guiones (-) para bajar una octava.</p>
